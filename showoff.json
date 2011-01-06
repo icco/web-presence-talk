@@ -1,0 +1,7 @@
+{ 
+   "name": "Web Presence", 
+   "sections": [
+      { "section": "title" },
+      { "section": "talk"  }
+   ]
+}
