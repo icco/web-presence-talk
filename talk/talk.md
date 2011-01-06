@@ -1,0 +1,26 @@
+!SLIDE bullets incremental
+
+!SLIDE center
+
+!SLIDE smbullets
+
+!SLIDE command
+
+!SLIDE bullets
+
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
+!SLIDE
