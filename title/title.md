@@ -1,6 +1,6 @@
 !SLIDE 
 # Web Presence
-## Februrary 15th, 2011
+## Februrary 4th, 2011
 ## Cal Poly Ignite
 
 !SLIDE smbullets
