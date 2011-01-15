@@ -49,7 +49,19 @@
 
 # Example
 
-!SLIDE 15seconds bullets 6
+!SLIDE 15seconds 8
+
+# moar talking
+
+!SLIDE 15seconds 9
+
+# moar talking
+
+!SLIDE 15seconds 10
+
+# moar talking
+
+!SLIDE 15seconds bullets 11
 # Step 1!
 
  * Get a website. <br /><small>Simplest Way: [Github Pages][ghp] and a domain name.</small>
@@ -57,16 +69,22 @@
 
 [ghp]: http://pages.github.com/
 
-!SLIDE 5seconds full-page 7
+!SLIDE 15seconds 12
+# Places not to put your website:
+
+ * Your csc user page
+ * some obscure url
+
+!SLIDE 5seconds full-page 13
 ![alt text](hphan.png "Henry Phan")
 
-!SLIDE 5seconds full-page 7
+!SLIDE 5seconds full-page 13
 ![alt text](dmpat.png "David Patierno")
 
-!SLIDE 5seconds full-page 7
+!SLIDE 5seconds full-page 13
 ![alt text](natw.png "Nat Welch")
 
-!SLIDE 15seconds smbullets 8
+!SLIDE 15seconds smbullets 14
 # Step 2.
 
  * Pick 3 things you have done.
@@ -74,35 +92,18 @@
  * put them somewhere <small>(github repos, a folder on your site)</small>
  * Link to them from your webpage
 
-!SLIDE 15seconds 9
+!SLIDE 15seconds 15
 # So you've got a website...
 
 # What now?
 
 ## First off: Link to your page from wherever you exist online <small>(Facebook, LinkedIn, Twitter, whatever.)</small>
 
-!SLIDE 15seconds 10
-
-!SLIDE 15seconds 11
-# 12
-
-!SLIDE 15seconds 12
-# 13
-
-!SLIDE 15seconds 13
-# 14
-
-!SLIDE 15seconds 14
-# 15
-
-!SLIDE 15seconds 15
+!SLIDE 15seconds 16
 # 16
 
-!SLIDE 15seconds 16
-# 17
-
 !SLIDE 15seconds 17
-# 18
+# 17
 
 !SLIDE 15seconds 18
 # 18
@@ -116,6 +117,7 @@
 !SLIDE
 # Thanks!
 ## The End.
+### slides: [natwelch.com/talks/presence/](http://natwelch.com/talks/presence/)
 
 <script>
 // enable timeouts?
@@ -127,7 +129,7 @@ $(".15seconds").bind("showoff:show", function (event) {
    }
 });
 
-$(".15seconds").bind("showoff:show", function (event) {
+$(".5seconds").bind("showoff:show", function (event) {
    if (nat_timeouts) {
       setTimeout('nextStep()', 5000);
    }
