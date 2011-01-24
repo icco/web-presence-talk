@@ -7,9 +7,13 @@
 
  * You believe in financial risk taking. <br /><small>(You're not 40 after-all)</small>
  * You don't really want to work at a large company right out of college.
+ * Aimed mainly at college students. <br /><small>(But general advice is here too...)</small>
 
 !SLIDE 15seconds 3
 # IANA*
+<!--
+I am not a hiring manager, a lawyer, a psychologist, a human resources person, a counselor, etc.
+-->
 
 !SLIDE 15seconds smaller 4
 # Share Your Work
@@ -30,7 +34,7 @@
  * No one cares
 
 !SLIDE 15seconds bullets 6
-# Lies!
+# (partially) Lies!
 
  * takes 30 minutes
  * you will actually come back to it
@@ -54,15 +58,22 @@
 
 !SLIDE 15seconds 9
 
-# Example
+## I'll be giving a three step how-to in a few slides
+
+# But let's look at social circles for a minute.
 
 !SLIDE 15seconds 10
 
-# moar talking 0
+# Picture of LinkedIn graphs... Mine vs. Someone else...
 
 !SLIDE 15seconds 11
 
-# moar talking 1
+# Don't be afraid to contact people
+
+ * Be curtious, offer something in return for their help
+ <!--
+Example: Dear Dr. Turner, I'm going to be in SLO this weekend and I like your work. I'm currently doing research on a problem similar to some of your papers and I was wondering if you would be interested in talking over a beer sometime in the next few days.
+-->
 
 !SLIDE 15seconds 12
 
