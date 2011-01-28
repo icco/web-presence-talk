@@ -2,16 +2,6 @@
 # Nat Welch 
 ### natwelch.com  /  @icco
 
-!SLIDE 15seconds 2
-# IANA*
-
-!SLIDE 15seconds bullets 3
-# Assumptions
-
- * Aimed mainly at college students. <br /><small>(But general advice is here too...)</small>
- * You believe in financial risk taking. <br /><small>(See previous assumption)</small>
- * You don't really want to work at a large company right out of college.
-
 !SLIDE 15seconds smaller 4
 # Share Your Work
 
@@ -71,20 +61,11 @@
  * Your csc user page
  * some obscure url
 
-!SLIDE 3seconds full-page 15
-![alt text](hphan.png "Henry Phan")
-
-!SLIDE 3seconds full-page 15
+!SLIDE 7seconds full-page 15
 ![alt text](dmpat.png "David Patierno")
 
-!SLIDE 3seconds full-page 15
+!SLIDE 7seconds full-page 15
 ![alt text](natw.png "Nat Welch")
-
-!SLIDE 3seconds full-page 15
-![alt text](jeannie.png "Jeannie Nguyen")
-
-!SLIDE 3seconds full-page 15
-![alt text](chrisg.png "Chris Gibson")
 
 !SLIDE 15seconds smbullets 16
 # Step 2.
@@ -114,13 +95,13 @@
 
 <script>
 // enable timeouts?
-var nat_timeouts = true;
+var nat_timeouts = false;
 
 $(".15seconds").bind("showoff:show", function (e) {
    if (nat_timeouts) { setTimeout('nextStep()', 15000); }
 });
 
-$(".3seconds").bind("showoff:show", function (e) {
+$(".7seconds").bind("showoff:show", function (e) {
    if (nat_timeouts) { setTimeout('nextStep()', 3000); }
 });
 </script>

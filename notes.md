@@ -8,13 +8,9 @@ Hi.
 
 ## 02
 
-I am not a hiring manager, a lawyer, a psychologist, a human resources person, counselor, etc.
-
-I am a professional web developer.
 
 ## 03
 
-Maybe not as important as originally thought.
 
 ## 04
 
