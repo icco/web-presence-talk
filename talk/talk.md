@@ -2,29 +2,18 @@
 # Nat Welch 
 ### natwelch.com  /  @icco
 
-!SLIDE 15seconds bullets 2
+!SLIDE 15seconds 2
+# IANA*
+
+!SLIDE 15seconds bullets 3
 # Assumptions
 
- * You believe in financial risk taking. <br /><small>(You're not 40 after-all)</small>
- * You don't really want to work at a large company right out of college.
  * Aimed mainly at college students. <br /><small>(But general advice is here too...)</small>
-
-!SLIDE 15seconds 3
-# IANA*
-<!--
-I am not a hiring manager, a lawyer, a psychologist, a human resources person, a counselor, etc.
--->
+ * You believe in financial risk taking. <br /><small>(See previous assumption)</small>
+ * You don't really want to work at a large company right out of college.
 
 !SLIDE 15seconds smaller 4
 # Share Your Work
-<!--
-# You do all of this work in college
-## you write papers
-## do projects
-## and generally make cool shit
-# but all of it just sits there
-# why don't you share it?
--->
 
 !SLIDE 15seconds bullets 5
 # Excuses for not sharing:
@@ -48,13 +37,10 @@ I am not a hiring manager, a lawyer, a psychologist, a human resources person, a
  * make you super-duper internet famous.
 
 !SLIDE 15seconds 8
-# Another Issue
+# Facebook Thing
 
-## In this digital age, everything you do leaves digital residue online.
+## Control your face on the web
 
-## Instead of letting this digital residue define you
-
-## create your own self-image on the web
 
 !SLIDE 15seconds 9
 
@@ -64,20 +50,13 @@ I am not a hiring manager, a lawyer, a psychologist, a human resources person, a
 
 !SLIDE 15seconds 10
 
-# Picture of LinkedIn graphs... Mine vs. Someone else...
+![alt text](linkedin.png)
 
 !SLIDE 15seconds 11
 
 # Don't be afraid to contact people
 
  * Be curtious, offer something in return for their help
- <!--
-Example: Dear Dr. Turner, I'm going to be in SLO this weekend and I like your work. I'm currently doing research on a problem similar to some of your papers and I was wondering if you would be interested in talking over a beer sometime in the next few days.
--->
-
-!SLIDE 15seconds 12
-
-# moar talking 2
 
 !SLIDE 15seconds bullets 13
 # Step 1!
@@ -93,14 +72,20 @@ Example: Dear Dr. Turner, I'm going to be in SLO this weekend and I like your wo
  * Your csc user page
  * some obscure url
 
-!SLIDE 5seconds full-page 15
+!SLIDE 3seconds full-page 15
 ![alt text](hphan.png "Henry Phan")
 
-!SLIDE 5seconds full-page 15
+!SLIDE 3seconds full-page 15
 ![alt text](dmpat.png "David Patierno")
 
-!SLIDE 5seconds full-page 15
+!SLIDE 3seconds full-page 15
 ![alt text](natw.png "Nat Welch")
+
+!SLIDE 3seconds full-page 15
+![alt text](jeannie.png "Jeannie Nguyen")
+
+!SLIDE 3seconds full-page 15
+![alt text](chrisg.png "Chris Gibson")
 
 !SLIDE 15seconds smbullets 16
 # Step 2.
@@ -123,7 +108,7 @@ Example: Dear Dr. Turner, I'm going to be in SLO this weekend and I like your wo
 !SLIDE 15seconds 19
 # 19
 
-!SLIDE
+!SLIDE 20
 # Thanks!
 ## The End.
 ### slides: [natwelch.com/talks/presence/](http://natwelch.com/talks/presence/)
@@ -132,15 +117,11 @@ Example: Dear Dr. Turner, I'm going to be in SLO this weekend and I like your wo
 // enable timeouts?
 var nat_timeouts = false;
 
-$(".15seconds").bind("showoff:show", function (event) {
-   if (nat_timeouts) {
-      setTimeout('nextStep()', 15000);
-   }
+$(".15seconds").bind("showoff:show", function (e) {
+   if (nat_timeouts) { setTimeout('nextStep()', 15000); }
 });
 
-$(".5seconds").bind("showoff:show", function (event) {
-   if (nat_timeouts) {
-      setTimeout('nextStep()', 5000);
-   }
+$(".3seconds").bind("showoff:show", function (e) {
+   if (nat_timeouts) { setTimeout('nextStep()', 3000); }
 });
 </script>
