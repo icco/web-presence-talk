@@ -41,7 +41,6 @@
 
 ## Control your face on the web
 
-
 !SLIDE 15seconds 9
 
 ## I'll be giving a three step how-to in a few slides
@@ -115,7 +114,7 @@
 
 <script>
 // enable timeouts?
-var nat_timeouts = false;
+var nat_timeouts = true;
 
 $(".15seconds").bind("showoff:show", function (e) {
    if (nat_timeouts) { setTimeout('nextStep()', 15000); }
