@@ -82,7 +82,7 @@
 
 # What now?
 
-## First off: Link to your page from wherever you exist online <small>(Facebook, LinkedIn, Twitter, whatever.)</small>
+## Link to your page from wherever you exist online. <small>(Facebook, LinkedIn, Twitter, email, whatever.)</small>
 
 !SLIDE 15seconds
 
