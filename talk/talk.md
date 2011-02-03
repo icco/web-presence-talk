@@ -38,7 +38,7 @@
 !SLIDE 15seconds smbullets
 # Don't be afraid to contact people
 
- * Be curtious, offer something in return for their help
+ * Be courteous, offer something in return for their help
 
 !SLIDE 15seconds
 # But what are you going to talk about?
