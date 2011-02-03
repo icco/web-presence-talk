@@ -1,7 +1,8 @@
-!SLIDE smbullets 15seconds
-<script>var nat_timeouts = true;</script>
+!SLIDE smbullets center 15seconds
+<script>var nat_timeouts = false;</script>
 
-# Nat Welch 
+![beer](beer.jpg)
+
 ### natwelch.com  /  @icco
 
 !SLIDE 15seconds smaller
@@ -35,10 +36,10 @@
 
 ### (Contact them first)
 
-!SLIDE 15seconds smbullets
-# Don't be afraid to contact people
+!SLIDE 15seconds smbullets center
 
- * Be courteous, offer something in return for their help
+### Be courteous, offer something in return for their help
+![beer](people_drinks.jpg)
 
 !SLIDE 15seconds
 # But what are you going to talk about?
