@@ -1,5 +1,5 @@
 !SLIDE smbullets center 15seconds
-<script>var nat_timeouts = true;</script>
+<script>var nat_timeouts = false;</script>
 
 ![beer](beer.jpg)
 
